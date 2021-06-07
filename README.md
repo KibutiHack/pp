@@ -1,3 +1,0 @@
-# uclient
-ez
-bedrock client
